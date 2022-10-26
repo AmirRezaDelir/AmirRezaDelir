@@ -5,7 +5,7 @@
 <body>
 <h2 align="center">سلام👋به گیت هاب من خوش آمدید</h2>
 	
-<align="center" ![github-contribution-grid-snake](https://user-images.githubusercontent.com/115124097/197940627-60af7834-f71a-47a4-ad48-d9a3dd22a560.svg) >
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/115124097/197940627-60af7834-f71a-47a4-ad48-d9a3dd22a560.svg) 
 
 <h4 align="center">من امیررضا دلیر هستم </h4>
 	
