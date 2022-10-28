@@ -10,6 +10,6 @@
 <br>
 <h4 align="center">من امیررضا دلیر هستم </h4><tr><h1> </h1><br>
 	<p align="center">برنامه نویس 💻 هکر 👨🏾‍💻 عاشق دنیای کامپیوترها 🖥️</p>
-	<p style="font: size 55px; color: crimson;">AmirReza</p>
+	<p align="center" style="font: size 30px; color: crimson;">AmirReza</p>
 </body>
 </html>
