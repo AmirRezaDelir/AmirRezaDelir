@@ -7,9 +7,7 @@
 	
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/115124097/197940627-60af7834-f71a-47a4-ad48-d9a3dd22a560.svg) 
 	
-<br>
 <h4 align="center">من امیررضا دلیر هستم </h4><tr><h1> </h1><br>
 	<p align="center">برنامه نویس 💻 هکر 👨🏾‍💻 عاشق دنیای کامپیوترها 🖥️</p>
-	<p align="center" style="font-size: 50px; color: crimson;">AmirReza</p>
 </body>
 </html>
