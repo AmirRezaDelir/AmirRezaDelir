@@ -10,7 +10,7 @@
 <h3 align="center">من امیررضا دلیر هستم </h3><tr><br>
 	<p align="center">برنامه نویس 👨‍💻 هکر 👨🏾‍💻 عاشق دنیای کامپیوترها 💻 🖥️</p>
 	<h2></h2>
-<h4 align="center">📋زبان هایی که استفاده میکنم >
+<h4 align="center">📋زبان هایی که استفاده میکنم>
 	
 	
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
