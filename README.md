@@ -44,6 +44,5 @@
 
  ![instagram](https://user-images.githubusercontent.com/115124097/198844134-dac797d8-dc5c-4233-8644-e9eb12db29b6.png) 
 	
-	 </a>
 </body>
 </html>
