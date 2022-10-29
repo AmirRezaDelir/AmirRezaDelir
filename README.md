@@ -42,8 +42,11 @@
 <h2> </h2>
 	    <a href="www.zoomit.ir"> 
 
-    <img src= "  ![instagram](https://user-images.githubusercontent.com/115124097/198844134-dac797d8-dc5c-4233-8644-e9eb12db29b6.png)  "> 
+ ![instagram](https://user-images.githubusercontent.com/115124097/198844134-dac797d8-dc5c-4233-8644-e9eb12db29b6.png) 
 	
 	 </a>
+	 
+	 
+	  ![instagram](https://user-images.githubusercontent.com/115124097/198844134-dac797d8-dc5c-4233-8644-e9eb12db29b6.png)
 </body>
 </html>
