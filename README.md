@@ -40,8 +40,8 @@
  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 	
 <h2> </h2>
-	    <a href="https://www.instagram.com/AmirReza_Delir"> 
-
+<a align="center" href="https://www.instagram.com/AmirReza_Delir"> 
+	
  ![instagram](https://user-images.githubusercontent.com/115124097/198844134-dac797d8-dc5c-4233-8644-e9eb12db29b6.png) 
 	
 </body>
