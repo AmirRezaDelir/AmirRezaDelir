@@ -45,5 +45,8 @@
 	
 <a align="center" href="https://www.instagram.com/AmirReza_Delir"> ![3721672-instagram_108066](https://user-images.githubusercontent.com/115124097/198845060-491a262d-7d34-4136-a5b6-6f32e07093ac.png) <a align="center" href="https://www.facebook.com/AmirRezaDelir"> ![facebook_icon-icons com_59205](https://user-images.githubusercontent.com/115124097/198845075-add35c69-90ca-4194-8c95-c73f27b3db96.png) <a align="center" href="https://twitter.com/AmirrezaDelir"> ![5294-twitter-i_102511](https://user-images.githubusercontent.com/115124097/198845913-0f3f8cac-e3fa-4096-9931-77634197144a.png)
 
+![telegram_icon-icons com_72055](https://user-images.githubusercontent.com/115124097/198846076-c29c1a40-cc16-4ca6-a26f-f6846e370ead.png)
+
+	
 </body>
 </html>
