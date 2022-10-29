@@ -43,11 +43,13 @@
 <h4 align="center">🌐 راه های ارتباطی با من</h4>
 <a align="center" href="https://www.instagram.com/AmirReza_Delir"> 
 	
- ![instagram](https://user-images.githubusercontent.com/115124097/198844134-dac797d8-dc5c-4233-8644-e9eb12db29b6.png) 
+![3721672-instagram_108066](https://user-images.githubusercontent.com/115124097/198845060-491a262d-7d34-4136-a5b6-6f32e07093ac.png)
+![facebook_icon-icons com_59205](https://user-images.githubusercontent.com/115124097/198845075-add35c69-90ca-4194-8c95-c73f27b3db96.png)
+
 	
 	<a align="center" href=""> 
 		
-![facebook](https://user-images.githubusercontent.com/115124097/198844711-0d14f8ff-43df-4abe-801c-99ea261e9d08.png)
+
 
 </body>
 </html>
