@@ -4,8 +4,7 @@
 </head>
 <body>
 <br>
-  
- <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20My%20name%20is%20AmirReza%20Delir;Software%20Engineer;An%20experienced%20developer;&width=460&height=50&color=f75c7e&vCenter=true&pause=1000&size=25" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20My%20name%20is%20AmirReza%20Delir;Software%20Engineer;An%20experienced%20developer;&width=440&height=50&color=f75c7e&vCenter=true&pause=1000&size=25" /></a>
 
 <br>
 <div dir="ltr">
