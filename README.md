@@ -13,7 +13,7 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" width="40" height="40" alt="CSS3" /></a>
 <a href="https://www.javascript.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" width="40" height="40" alt="Javascript" /></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg" width="40" height="40" alt="python" /></a>
-<a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Wordpress.svg" width="40" height="40" alt="Wordpress" /></a>
+
 <br>
 </div>
 </body>
